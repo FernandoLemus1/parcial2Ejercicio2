@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Renta",
+    "slug": "Renta",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Renta"
+}
